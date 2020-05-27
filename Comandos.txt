@@ -1,0 +1,5 @@
+#Migrar librerias
+pip freeze > requisitos.txt
+
+#Instalar Librerias
+pip install -r requisitos.txt
